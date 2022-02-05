@@ -1,2 +1,1 @@
-# TexnologiaLogismikou21
-TURNIN for CS UOI: Texnologia Logismikou 2021.
+# Text to speech editor
